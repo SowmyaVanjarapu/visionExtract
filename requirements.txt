@@ -1,0 +1,6 @@
+streamlit==1.30.0
+torch
+torchvision
+Pillow
+numpy
+segmentation-models-pytorch
